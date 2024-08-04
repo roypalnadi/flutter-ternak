@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639068244751",
+    "project_id": "ternak-44861",
+    "storage_bucket": "ternak-44861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639068244751:android:b200b24aed34f05f81cc7a",
+        "android_client_info": {
+          "package_name": "com.example.ternak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZDV6UDu0mpjSw9TjKDE_kEUqtEyFdLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
